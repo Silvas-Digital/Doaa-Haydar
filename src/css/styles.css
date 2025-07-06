@@ -231,8 +231,11 @@ div.row{
 
 
 @media (max-width: 991.98px) {
+    :root{
+        font-size: 13px;
+    }
     main{
-        padding: 40px;
+        padding: 20px;
     }
     .card-body{
          align-items: center;           
