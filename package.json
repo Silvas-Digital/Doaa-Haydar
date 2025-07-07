@@ -39,7 +39,7 @@
     "bootstrap": "^5.3.6",
     "bootstrap-icons": "^1.13.1",
     "date-fns": "^4.1.0",
-    "three": "^0.136.0",
+    "three": "^0.121.1",
     "vanta": "^0.5.24"
   }
 }
